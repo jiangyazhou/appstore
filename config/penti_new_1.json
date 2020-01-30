@@ -4,6 +4,7 @@
     "main" : "http://www.dapenti.com/blog/indexforweb.asp",
     "excludes" : ["一周图卦"],
     "priority" : "热门视频",
+    "refresh" : "180",
     "home" : {
         "title" : "喷嚏图卦",
         "url" : "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei"
