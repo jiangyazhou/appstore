@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "1.3",
     "domains": {
         "en": {
             "root" : "https://gallerix.org",
@@ -112,9 +112,12 @@
     },
     "update" : {
         "force" : "0",
-        "version" : "2.1"
+        "version" : "3.3"
     },
     "excludes" : {
         "titles" : []
+    },
+    "features" : {
+        "excludes" : []
     }
 }
