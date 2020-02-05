@@ -1,13 +1,21 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "host" : "http://www.dapenti.com/blog/",
     "main" : "http://www.dapenti.com/blog/indexforweb.asp",
     "excludes" : ["一周图卦"],
-    "priority" : "热门视频",
+    "priority" : "乐活",
+    "pttgnewest" : "铂程斋",
     "refresh" : "180",
+    "iframeheight" : "1000",
+    "displaysource" : "0",
+    "displayprogress" : "1",
     "home" : {
         "title" : "喷嚏图卦",
-        "url" : "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei"
+        "href" : "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei"
+    },
+    "pentiyixia" : {
+        "title" : "喷嚏一下",
+        "href" : "http://www.dapenti.com/blog/blog.asp?subjectid=137&name=xilei"
     },
     "description" : "阅读、发现和分享：8小时外的健康生活！您的网络博客文摘，原创社会人文书评，每天只需5分钟的精神享受。来这儿打喷嚏！"
 }
