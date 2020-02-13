@@ -1,5 +1,5 @@
 {
-    "version": "1.1",
+    "version": "1.2",
     "host" : "http://www.dapenti.com/blog/",
     "main" : "http://www.dapenti.com/blog/indexforweb.asp",
     "excludes" : ["一周图卦"],
@@ -8,7 +8,7 @@
     "refresh" : "180",
     "iframeheight" : "1000",
     "displaysource" : "0",
-    "displayprogress" : "1",
+    "displayprogress" : "0",
     "home" : {
         "title" : "喷嚏图卦",
         "href" : "http://www.dapenti.com/blog/blog.asp?subjectid=70&name=xilei"
