@@ -1,5 +1,5 @@
 {
-  "version": "1.8",
+  "version": "2.0",
   "host": "http://www.dapenti.com/blog/",
   "main": "http://www.dapenti.com/blog/indexforweb.asp",
   "yizhoutugua": "一周图卦",
@@ -32,5 +32,6 @@
   "recommend": {
     "first": "https://raw.githubusercontent.com/jiangyazhou/appstore/master/recommend/penti.json",
     "second": "https://jp.rsscc.com/config/ios/testicons/recommend.json"
-  }
+  },
+  "review" : "https://jp.rsscc.com/config/ios/testicons/review3.json"
 }
